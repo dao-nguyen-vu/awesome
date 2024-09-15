@@ -1,2 +1,2 @@
 # awesome
-Awesome things
+Awesome Things
